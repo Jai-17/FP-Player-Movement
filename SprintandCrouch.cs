@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerSprintAndCrouch : MonoBehaviour
+public class SprintandCrouch : MonoBehaviour
 {
 
     private PlayerMOvement playerMovement; 
