@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMOvement : MonoBehaviour
+public class Movement_WASD : MonoBehaviour
 {
 
     private CharacterController character_Controller;
